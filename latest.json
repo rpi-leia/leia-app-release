@@ -1,7 +1,7 @@
 {
   "version": "v1.1.1",
   "notes": "Auto update capability.",
-  "pub_date": "2026-02-09",
+  "pub_date": "2026-02-09T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0RIbEo5aWhZeS9DQUVnT1lITGwwb09nZDZBSHJnMEdOV09CYjFzcVBGMlZ3OWtpSUZHaldYU2pDWG5XNDZNbVZiR01uT3lHYklNZ1dwWFZwZ2E3L0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDY4MjAzCWZpbGU6TEVJQS5hcHAudGFyLmd6CklwMmJzek5zYnVFOUYwV1Qrek5GMUptV2pNblFqSEtVQ0ZuL1lSalVINGNCQmFkNzRrSjdMdVRCUzRBWmNFN1haTXlNdGx5V2RYbGZySW1kSjJRbEJnPT0K",
