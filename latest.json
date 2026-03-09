@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.0",
-  "notes": "Initial app development: handles installation, configuration, and launching of LEIA and Syntax Service.",
+  "version": "v1.1.1",
+  "notes": "Auto update capability.",
   "pub_date": "2026-02-09",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0NFQnJPOFpSanNpQ2wxVForRU5HVHluOENwVC9wRmpsdHltK1RUZDdrQk1KU3kreXJVRDdBSk1zRzU4NWxPcGJ4a0ZsTFNxTXV4Vlp3SmNXRVFEZlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDY1NzIzCWZpbGU6TEVJQS5hcHAudGFyLmd6CnhDSnc4ZHBUeGJZM1VsMXZZZFBrcWlZVTBiQ2ticlZkdHdMR1c3UkV2dm9uVVRRTGQ1cUNuOG1MQUVLdkc5bXRNTjBTNWF6WnV3S2NFM1ZxanYzUkFnPT0K",
-      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.0.0/LEIA.app.v1.0.0.darwin-aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0RIbEo5aWhZeS9DQUVnT1lITGwwb09nZDZBSHJnMEdOV09CYjFzcVBGMlZ3OWtpSUZHaldYU2pDWG5XNDZNbVZiR01uT3lHYklNZ1dwWFZwZ2E3L0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDY4MjAzCWZpbGU6TEVJQS5hcHAudGFyLmd6CklwMmJzek5zYnVFOUYwV1Qrek5GMUptV2pNblFqSEtVQ0ZuL1lSalVINGNCQmFkNzRrSjdMdVRCUzRBWmNFN1haTXlNdGx5V2RYbGZySW1kSjJRbEJnPT0K",
+      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.1.1/LEIA.app.v1.1.1.darwin-aarch64.tar.gz"
     }
   }
 }
