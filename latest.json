@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.1",
-  "notes": "Auto update capability.",
-  "pub_date": "2026-02-09T00:00:00Z",
+  "version": "v1.2.0",
+  "notes": "Dashboard card and re-install action.",
+  "pub_date": "2026-03-13T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0dZMGxKY3p3amhQYTk3ZldmR2ZsUTVrTUttQndzZlNvQ1VvR1pJQkJ6cHF4dFlLeVVQUUFvdW9RN1E0MTdOdmJqcmQ3Ti9VV3ZIQnFEeFhsM21CVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDY5OTY2CWZpbGU6TEVJQS5hcHAudGFyLmd6CnNIa21UVTNQMCswMGxpM2JiNnAwZ3dCREozRHJkTXZOWi9xVmhVUjQ4SFRYSDBVbm1mdjlJRVBKeUlkZGE4Z0dTT2Rzd1ZoNDR5bmpnMXh6dU5JYUJBPT0K",
-      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.1.1/LEIA.app.v1.1.1.darwin-aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0NoK2dWTCsyNktkYUk5a3ZnTzdWaHQvZFRIdDJBM2t5Uy9KR1YrNmhQVUhHN3NSK1JqbjM3SkxCeHlCN2R5QTFXejdRVjNaRWdWWDdPTUt6VXNOT1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDE0MTc1CWZpbGU6TEVJQS5hcHAudGFyLmd6CklhREY2QytIQmJzMWdRTnptMGpsc3FBQ1lndFBaZG1VOFlYWW8zeTdSTVVGaDBmSmV2MGZGeFNIRW8zZGswdEx0U3cyenZ2UUVZS0JzTW9KWXBnaERnPT0K",
+      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.2.0/LEIA.app.v1.2.0.darwin-aarch64.tar.gz"
     }
   }
 }
