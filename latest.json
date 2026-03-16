@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.0",
-  "notes": "Dashboard card and re-install action.",
+  "version": "v1.3.0",
+  "notes": "Added LEIA Terminal support.",
   "pub_date": "2026-03-13T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0NoK2dWTCsyNktkYUk5a3ZnTzdWaHQvZFRIdDJBM2t5Uy9KR1YrNmhQVUhHN3NSK1JqbjM3SkxCeHlCN2R5QTFXejdRVjNaRWdWWDdPTUt6VXNOT1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDE0MTc1CWZpbGU6TEVJQS5hcHAudGFyLmd6CklhREY2QytIQmJzMWdRTnptMGpsc3FBQ1lndFBaZG1VOFlYWW8zeTdSTVVGaDBmSmV2MGZGeFNIRW8zZGswdEx0U3cyenZ2UUVZS0JzTW9KWXBnaERnPT0K",
-      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.2.0/LEIA.app.v1.2.0.darwin-aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV015Q0hxM2lQSlhGU3phWFR3YmdDd3NjZnFsTnNaS0RubG1ZVnRBTzRjQVdmLzFDbW9HZkJUWURFNGpKUG9ieXNBTHNabTBLMzF3MFI4T21SUVdTWWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjY4NTc2CWZpbGU6TEVJQS5hcHAudGFyLmd6ClBqY1l2eEJFQUZyeTZxOExXZXNSd1lZSkZwQnlFbHFDTnBxMWlkR1BmU09USXNtbUZTS0plV1ZRTFFodkQrdUNaa1hqZWVCdmpGNmJwNis1V0JjNkJnPT0K",
+      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.3.0/LEIA.app.v1.3.0.darwin-aarch64.tar.gz"
     }
   }
 }
