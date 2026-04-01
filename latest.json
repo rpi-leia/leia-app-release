@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.0",
-  "notes": "Added LEIA Terminal support.",
-  "pub_date": "2026-03-13T00:00:00Z",
+  "version": "v1.4.0",
+  "notes": "Updated installation of Syntax Service to include FR and PL support.",
+  "pub_date": "2026-04-01T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV015Q0hxM2lQSlhGU3phWFR3YmdDd3NjZnFsTnNaS0RubG1ZVnRBTzRjQVdmLzFDbW9HZkJUWURFNGpKUG9ieXNBTHNabTBLMzF3MFI4T21SUVdTWWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjY4NTc2CWZpbGU6TEVJQS5hcHAudGFyLmd6ClBqY1l2eEJFQUZyeTZxOExXZXNSd1lZSkZwQnlFbHFDTnBxMWlkR1BmU09USXNtbUZTS0plV1ZRTFFodkQrdUNaa1hqZWVCdmpGNmJwNis1V0JjNkJnPT0K",
-      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.3.0/LEIA.app.v1.3.0.darwin-aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdE5wbXJOVjNVV0JPWHh4dW1aTmdYT3l2RmE1NEpHRkVIMklId0xiWXQ3d2F4d1IzOGRkMkRZaSs2SzRFMDJINEE1NlVtN3BnT1d0S0VsaVhkK3VtN01tUG9GS0U0WXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDYyNjI5CWZpbGU6TEVJQS5hcHAudGFyLmd6CnRvRlN2T205UzlMUnExOExUVnBDN1pvcjRoam9VL3o4T3JNOWhScWpzSkxoTTVmcFd2SWN2WE9KelQ0NzZsc0FEdCttYWZ5ZVJjN0t0QTFrZnNpYUJ3PT0K",
+      "url": "https://github.com/rpi-leia/leia-app-release/releases/download/v1.4.0/LEIA.app.v1.4.0.darwin-aarch64.tar.gz"
     }
   }
 }
